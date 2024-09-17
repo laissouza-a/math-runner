@@ -98,7 +98,6 @@ void OnTriggerEnter(Collider other)
         if (playerX > 0)
         {
             Debug.Log("Parede correta");
-            // Adicione aqui qualquer ação adicional para uma parede correta, se necessário
         }
         else if (playerX<0)
         {
