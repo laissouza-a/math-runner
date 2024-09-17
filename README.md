@@ -1,2 +1,2 @@
 #Math Runner
-##Projeto de moelagem/jogo usando Unity
+##Projeto de modelagem/jogo usando Unity
